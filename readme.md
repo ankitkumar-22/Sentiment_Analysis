@@ -1,6 +1,6 @@
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/masterK0927/newsAnalysis.git
+   git clone https://github.com/ankitkumar-22/Sentiment_Analysis.git
    cd news-analysis
    ```
 2. **Create a virtual environment:**
